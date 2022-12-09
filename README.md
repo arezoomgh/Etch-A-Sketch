@@ -1,2 +1,2 @@
 # Etch-A-Sketch
-HTML/CSS/JS etch a sketch project
+creating a grid based etch a sketch by using html, css and javascript
